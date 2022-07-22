@@ -40,6 +40,7 @@ codeql resolve languages
 * Create new `.ql / .qll` files via reading the doc or looking at the examples:
   * https://codeql.github.com/docs/ql-language-reference/
   * https://github.com/github/codeql/tree/main/javascript/ql/examples/snippets (JS)
+  * https://github.com/github/codeql/tree/main/javascript/ql/src/LanguageFeatures
 
 * NOTE: When `@kind` is not specified in the ql file header, VS-Code QL Extention throws an Error which is not really on error.
   * Further reading: https://github.com/github/codeql/issues/2486
